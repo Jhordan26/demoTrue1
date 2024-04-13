@@ -66,8 +66,8 @@
 			<div class="row">
 				<h1 class="lead"><strong>WELCOME STUDENTS DDS</strong></h1>
 				<p class="tagline">Esto es una prueba de commit y nuevo push en terminal <a href="http://www.gettemplate.com/?utm_source=progressus&amp;utm_medium=template&amp;utm_campaign=progressus">GetTemplate</a></p>
-				<p><a class="btn btn-default  hola btn-lg" role="button">MORE INFO</a> 
-				<a class="btn btn-action btn-lg" role="button">DOWNLOAD NOW</a></p>
+				<p><a class="btn btn-success  hola btn-lg" role="button">MORE INFO</a> 
+				<a class="btn btn-primary btn-lg" role="button">DOWNLOAD NOW</a></p>
 			</div>
 		</div>
 	</header>
